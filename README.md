@@ -70,19 +70,6 @@ as Power BI reports, Excel models, presentations, or executive reports.
 | Business domains | Sales and CRM, e-commerce, FP&A, inventory, process analytics |
 | Delivery and quality | Git, GitHub Actions, Pytest, FastAPI, Docker, documentation |
 
-## Experience & Education
-
-- **Founder & E-Commerce Operations Manager — Monaco Luxe Clothing**
-  (2020–Present): performance marketing, pricing, purchasing, inventory,
-  customer experience, and supplier coordination.
-- **Volunteer Business Analyst — Industry and Quality Society**
-  (2025–2026): requirements gathering, process analysis, KPI reporting,
-  stakeholder coordination, and operational planning.
-- **BSc in Statistics — Süleyman Demirel University**
-  (Expected graduation: June 2027).
-- Professional training in **Financial Reporting** from the University of
-  Illinois Urbana-Champaign and **Entrepreneurship Strategy** from HEC Paris.
-
 ## Selected Professional Development
 
 KOSGEB Entrepreneurship Training · Türkiye İş Bankası ProSchool Data & AI
