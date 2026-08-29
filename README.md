@@ -68,7 +68,7 @@ as Power BI reports, Excel models, presentations, or executive reports.
 | Analytics and modeling | Python, pandas, NumPy, scikit-learn, statsmodels, PM4Py |
 | Business intelligence | Power BI, DAX, PBIP, Tableau, semantic modeling |
 | Business domains | Sales and CRM, e-commerce, FP&A, inventory, process analytics |
-| Delivery and quality | Git, GitHub Actions, Pytest, FastAPI, Docker, documentation |
+| Delivery and quality | Git, GitHub pull requests, GitHub Actions, Pytest, FastAPI, Docker, documentation |
 
 ## Selected Professional Development
 
