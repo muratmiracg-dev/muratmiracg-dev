@@ -46,12 +46,12 @@ I also bring hands-on commercial experience from founding and operating an e-com
 </p>
 
 <p align="center">
-  <img height="178" src="https://github-readme-stats.vercel.app/api?username=muratmiracg-dev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=6A9CFF&text_color=9DBBD0&icon_color=35D3BA&ring_color=35D3BA" alt="GitHub Stats">
-  <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratmiracg-dev&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=6A9CFF&text_color=9DBBD0" alt="Top Languages">
+  <img height="178" src="https://github-readme-stats.vercel.app/api?username=muratmiracg-dev&show_icons=true&include_all_commits=true&hide_border=false&border_color=1B3650&border_radius=12&bg_color=0B1627&title_color=6A9CFF&text_color=D8E6EF&icon_color=35D3BA&ring_color=35D3BA" alt="GitHub Stats">
+  <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratmiracg-dev&layout=compact&langs_count=8&hide_border=false&border_color=1B3650&border_radius=12&bg_color=0B1627&title_color=6A9CFF&text_color=D8E6EF" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com?user=muratmiracg-dev&theme=transparent&hide_border=true&ring=35D3BA&fire=6A9CFF&currStreakLabel=6A9CFF&sideLabels=9DBBD0&dates=7D93A5&currStreakNum=F5F9FC&sideNums=F5F9FC" alt="GitHub Streak">
+  <img width="72%" src="https://streak-stats.demolab.com?user=muratmiracg-dev&hide_border=false&border=1B3650&border_radius=12&background=0B1627&ring=35D3BA&fire=6A9CFF&currStreakLabel=6A9CFF&sideLabels=9DBBD0&dates=7D93A5&currStreakNum=F5F9FC&sideNums=F5F9FC" alt="GitHub Streak and Total Contributions">
 </p>
 
 <br>
@@ -64,13 +64,13 @@ I also bring hands-on commercial experience from founding and operating an e-com
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/muratmiracg-dev/aurelia-bank-sme-relationship-sales-intelligence-control-tower">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=muratmiracg-dev&repo=aurelia-bank-sme-relationship-sales-intelligence-control-tower&hide_border=true&bg_color=00000000&title_color=6A9CFF&text_color=9DBBD0&icon_color=35D3BA" alt="SME Relationship and Sales Intelligence Control Tower">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=muratmiracg-dev&repo=aurelia-bank-sme-relationship-sales-intelligence-control-tower&hide_border=false&border_color=1B3650&border_radius=12&bg_color=0B1627&title_color=6A9CFF&text_color=D8E6EF&icon_color=35D3BA" alt="SME Relationship and Sales Intelligence Control Tower">
       </a>
       <sub><b>SME Relationship & Sales Intelligence</b><br>3,200 synthetic SME customers · 18,556 opportunities · 661 next-best conversations · 2.07x top-decile lift.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/muratmiracg-dev/aurelia-bank-treasury-alm-risk-control-tower">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=muratmiracg-dev&repo=aurelia-bank-treasury-alm-risk-control-tower&hide_border=true&bg_color=00000000&title_color=6A9CFF&text_color=9DBBD0&icon_color=35D3BA" alt="Treasury and ALM Risk Control Tower">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=muratmiracg-dev&repo=aurelia-bank-treasury-alm-risk-control-tower&hide_border=false&border_color=1B3650&border_radius=12&bg_color=0B1627&title_color=6A9CFF&text_color=D8E6EF&icon_color=35D3BA" alt="Treasury and ALM Risk Control Tower">
       </a>
       <sub><b>Treasury & ALM Risk</b><br>TRY 180B synthetic balance sheet · 19 maturity buckets · 6 EVE scenarios · 5 liquidity stresses.</sub>
     </td>
@@ -78,13 +78,13 @@ I also bring hands-on commercial experience from founding and operating an e-com
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/muratmiracg-dev/Banking-Credit-Risk-Explainable-Loan-Decisioning-Platform">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=muratmiracg-dev&repo=Banking-Credit-Risk-Explainable-Loan-Decisioning-Platform&hide_border=true&bg_color=00000000&title_color=6A9CFF&text_color=9DBBD0&icon_color=35D3BA" alt="Credit Risk and Explainable Loan Decisioning Platform">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=muratmiracg-dev&repo=Banking-Credit-Risk-Explainable-Loan-Decisioning-Platform&hide_border=false&border_color=1B3650&border_radius=12&bg_color=0B1627&title_color=6A9CFF&text_color=D8E6EF&icon_color=35D3BA" alt="Credit Risk and Explainable Loan Decisioning Platform">
       </a>
       <sub><b>Credit Risk & Explainable Loan Decisioning</b><br>48,000 applications · 0.738 ROC AUC · 0.475 Gini · PD-to-score conversion · SHAP explanations.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/muratmiracg-dev/aurelia-bank-financial-crime-aml-intelligence-control-tower">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=muratmiracg-dev&repo=aurelia-bank-financial-crime-aml-intelligence-control-tower&hide_border=true&bg_color=00000000&title_color=6A9CFF&text_color=9DBBD0&icon_color=35D3BA" alt="Financial Crime and AML Intelligence Control Tower">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=muratmiracg-dev&repo=aurelia-bank-financial-crime-aml-intelligence-control-tower&hide_border=false&border_color=1B3650&border_radius=12&bg_color=0B1627&title_color=6A9CFF&text_color=D8E6EF&icon_color=35D3BA" alt="Financial Crime and AML Intelligence Control Tower">
       </a>
       <sub><b>Financial Crime & AML Intelligence</b><br>48,412 transactions · 134 explainable alerts · 98.91% recall · graph analytics · KYC & transaction monitoring.</sub>
     </td>
