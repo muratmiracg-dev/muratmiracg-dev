@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
-  <title id="title">Murat Miraç Gedik — Banking Analytics, Risk Analytics &amp; Business Intelligence</title>
-  <desc id="desc">Modern dark profile banner with banking and risk dashboard visuals.</desc>
+  <title id="title">Murat Miraç Gedik — Insurance &amp; Banking Risk Analytics</title>
+  <desc id="desc">Modern dark profile banner with insurance, banking and risk dashboard visuals.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#050b16"/>
@@ -37,8 +37,8 @@
     <g transform="translate(100 86)">
       <rect x="0" y="0" width="8" height="320" rx="4" fill="url(#accent)"/>
       <text x="42" y="73" fill="#f5f9fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="70" font-weight="750">Murat Miraç Gedik</text>
-      <text x="44" y="133" fill="#9dbbd0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="2.1">BANKING ANALYTICS · RISK ANALYTICS · BUSINESS INTELLIGENCE</text>
-      <text x="44" y="196" fill="#d8e5ee" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="450">Credit Risk · AML/KYC · Treasury &amp; ALM · Decision Support</text>
+      <text x="44" y="133" fill="#9dbbd0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="2.1">INSURANCE &amp; BANKING RISK ANALYTICS · BI</text>
+      <text x="44" y="196" fill="#d8e5ee" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="29" font-weight="450">Pricing &amp; Reserving · Credit Risk · ALM · AML</text>
 
       <g transform="translate(44 236)">
         <rect width="108" height="42" rx="21" fill="#10263c" stroke="#35d3ba" stroke-opacity="0.35"/>
@@ -51,7 +51,7 @@
         <text x="494" y="27" text-anchor="middle" fill="#edf3ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">STATISTICS</text>
       </g>
 
-      <text x="44" y="328" fill="#9bb3c5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="550">SEGEM Certified · SPL Level 3 Candidate · Statistics B.Sc. Candidate</text>
+      <text x="44" y="328" fill="#9bb3c5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="550">SEGEM Certified · SPL Level 3 (2 Modules Passed) · Final-Year Statistics</text>
     </g>
 
     <g transform="translate(1115 78)" filter="url(#shadow)">
@@ -74,8 +74,8 @@
         <g transform="translate(228 0)">
           <rect width="96" height="70" rx="16" fill="#10263c"/>
           <circle cx="22" cy="21" r="7" fill="#35d3ba"/>
-          <text x="16" y="45" fill="#8daac0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">FIN. CRIME</text>
-          <text x="16" y="62" fill="#f4f8fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="750">AML · KYC</text>
+          <text x="16" y="45" fill="#8daac0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700">INSURANCE</text>
+          <text x="16" y="62" fill="#f4f8fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="750">GLM · IBNR</text>
         </g>
       </g>
 
